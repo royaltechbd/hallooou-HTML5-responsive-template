@@ -19,7 +19,4 @@ Key Features:
 	•	Ajax Contact Form with validation
 	•	4 Premade color Options
 
-
-[Live Demo](http://bit.ly/ht_preview)
-
 Note: Images used in the theme are for preview purpose only.
